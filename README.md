@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 Hi there! I'm Merely, a passionate Python developer and a curious data scientist. Welcome to my GitHub profile!
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ## About Me
 
 I love everything about technology and enjoy exploring new programming languages. However, Python holds a special place in my heart. As a data scientist, I'm always curious to see what insights can be revealed from data. In my spare time, I enjoy reading books on various topics and watching TED Talks.
