@@ -5,9 +5,12 @@ Hi there! I'm Merely, a passionate Python developer and a curious data scientist
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ## About Me
 
 I love everything about technology and enjoy exploring new programming languages. However, Python holds a special place in my heart. As a data scientist, I'm always curious to see what insights can be revealed from data. In my spare time, I enjoy reading books on various topics and watching TED Talks.
+### :hammer_and_wrench: Languages and Tools :
+
 
 ## My Skills and Expertise
 
@@ -32,14 +35,14 @@ Here are some of the projects that I've worked on:
 
 You can check out these and other projects on my [GitHub Profile](https://github.com/merelydustin).
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## Let's Connect!
 
 I'm open to connecting with fellow developers and data scientists. Here are some ways to reach me:
-
-- LinkedIn: [linkedin.com/in/merelydustin](https://www.linkedin.com/in/merelydustin/)
-- Twitter: [@merelydustin](https://twitter.com/merelydustin)
-- Kaggle: [kaggle.com/merelydustin](https://www.kaggle.com/merelydustin)
-
+- Kaggle: [kaggle.com/ilya nozary](https://www.kaggle.com/ilyanozary)
+- gmail: ilyanozary.dynamic@gmail.com
 Hope to connect with you soon! 🤗
 
 
