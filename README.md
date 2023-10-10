@@ -1,11 +1,9 @@
-# ily
 
-
-Hi there! I'm Merely, a Python developer and a Data Scientist. Welcome to my GitHub profile!
+Hi there! I'm Merely, a passionate Python developer and a curious data scientist. Welcome to my GitHub profile!
 
 ## About Me
 
-I am a highly-motivated individual who loves everything about technology. My passion lies in exploring the vast potentials of Python, particularly in the field of data science. When I'm not coding or analyzing data, you can find me traveling, reading books, and watching TED Talks.
+I love everything about technology and enjoy exploring new programming languages. However, Python holds a special place in my heart. As a data scientist, I'm always curious to see what insights can be revealed from data. In my spare time, I enjoy reading books on various topics and watching TED Talks.
 
 ## My Skills and Expertise
 
@@ -18,15 +16,21 @@ I am a highly-motivated individual who loves everything about technology. My pas
 
 ## My Projects
 
-I have several projects that showcase my skills and expertise. You can check them out on my [GitHub Profile](https://github.com/merelydustin). Here are some of my recent projects:
+Here are some of the projects that I've worked on:
 
-- [Real Estate Price Predictor](https://github.com/merelydustin/real-estate-price-predictor): A machine learning model that predicts real estate prices in Metro Manila, Philippines.
-- [Credit Card Fraud Detection](https://github.com/merelydustin/credit-card-fraud-detection): A project that uses machine learning algorithms to detect credit card fraud.
-- [COVID-19 Data Analysis](https://github.com/merelydustin/covid-19-data-analysis): An analysis of the COVID-19 pandemic using Python and data visualization libraries.
+- **Predicting Iraqi Students' GPAs:** In this project, I trained a machine learning model to predict the average grades of Iraqi students based on their grades from previous years.
+- **Predicting Heart Attacks:** I created a machine learning model that could predict a person's risk of having a heart attack based on their medical records.
+- **Basic House Price Prediction in Tehran:** In this project, I created a basic model to determine the estimated price of a house based on its location and the number of rooms.
+- **Color Detection using OpenCV:** I developed an application using OpenCV which detects and recognizes colors from an image.
+- **Line and Angle Detection using OpenCV:** In this project, I created a Python application which can detect lines and angles from images using OpenCV.
+- **Fibonacci Numbers:** I created a program to generate the Fibonacci sequence up to a specified number using Python.
+- **Project Euler Solutions:** Project Euler is a series of challenging mathematical/computer programming problems. I solved several of these problems using Python.
+
+You can check out these and other projects on my [GitHub Profile](https://github.com/merelydustin).
 
 ## Let's Connect!
 
-I'm always looking to connect with fellow developers and data scientists. You can reach me on the following platforms:
+I'm open to connecting with fellow developers and data scientists. Here are some ways to reach me:
 
 - LinkedIn: [linkedin.com/in/merelydustin](https://www.linkedin.com/in/merelydustin/)
 - Twitter: [@merelydustin](https://twitter.com/merelydustin)
@@ -34,4 +38,4 @@ I'm always looking to connect with fellow developers and data scientists. You ca
 
 Hope to connect with you soon! 🤗
 
-![alt text](https://media.tenor.com/images/f0a055d8ab1b10dc4eda04dcdbca8a3f/tenor.gif "Python and Data Science")
+![alt text](https://media.giphy.com/media/l0MYGb1vIvKHJvrAA/giphy.gif "Python and Data Science")
