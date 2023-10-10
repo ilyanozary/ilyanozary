@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 Hi there! I'm Merely, a passionate Python developer and a curious data scientist. Welcome to my GitHub profile!
 
 ## About Me
@@ -38,4 +40,4 @@ I'm open to connecting with fellow developers and data scientists. Here are some
 
 Hope to connect with you soon! 🤗
 
-![](https://giphy.com/gifs/talk-dirty-to-me-similarweb-nerdy-SvckSy7fFviqrq8ClF)
+
