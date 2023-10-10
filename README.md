@@ -9,10 +9,19 @@ Hi there! I'm Merely, a passionate Python developer and a curious data scientist
 ## About Me
 
 I love everything about technology and enjoy exploring new programming languages. However, Python holds a special place in my heart. As a data scientist, I'm always curious to see what insights can be revealed from data. In my spare time, I enjoy reading books on various topics and watching TED Talks.
+
 ### :hammer_and_wrench: Languages and Tools :
 
 
 ## My Skills and Expertise
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="tensorflow" width="40" height="40"/>&nbsp; 
+</div>
 
 - Python (NumPy, Pandas, Scikit-Learn, Matplotlib)
 - Machine Learning
@@ -42,7 +51,9 @@ You can check out these and other projects on my [GitHub Profile](https://github
 
 I'm open to connecting with fellow developers and data scientists. Here are some ways to reach me:
 - Kaggle: [kaggle.com/ilya nozary](https://www.kaggle.com/ilyanozary)
-- gmail: ilyanozary.dynamic@gmail.com
+- gmail: [gmail.com/ilyanozary.dynamic@gmail.com](ilyanozary.dynamic@gmail.com)
+
+
 Hope to connect with you soon! 🤗
 
 
