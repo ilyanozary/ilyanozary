@@ -10,7 +10,7 @@ Hi there! I'm Merely, a passionate Python developer and a curious data scientist
 
 I love everything about technology and enjoy exploring new programming languages. However, Python holds a special place in my heart. As a data scientist, I'm always curious to see what insights can be revealed from data. In my spare time, I enjoy reading books on various topics and watching TED Talks.
 
-### :hammer_and_wrench: Languages and Tools :
+
 
 
 ## My Skills and Expertise
