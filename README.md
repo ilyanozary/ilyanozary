@@ -38,4 +38,4 @@ I'm open to connecting with fellow developers and data scientists. Here are some
 
 Hope to connect with you soon! 🤗
 
-![alt text](https://media.giphy.com/media/l0MYGb1vIvKHJvrAA/giphy.gif "Python and Data Science")
+https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif
