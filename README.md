@@ -38,4 +38,4 @@ I'm open to connecting with fellow developers and data scientists. Here are some
 
 Hope to connect with you soon! 🤗
 
-https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif
+!<iframe src="https://giphy.com/embed/SvckSy7fFviqrq8ClF" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/talk-dirty-to-me-similarweb-nerdy-SvckSy7fFviqrq8ClF">via GIPHY</a></p>
